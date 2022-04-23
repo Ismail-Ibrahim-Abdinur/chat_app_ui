@@ -1,6 +1,6 @@
-# chat_ui
+# Message App  UI
 
-A new Flutter project.
+This project is a messaging app ui, I've built as a practice.
 
 ## Getting Started
 
