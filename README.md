@@ -1,4 +1,4 @@
-# Message App  UI
+# Chat App  UI
 
 This project is a messaging app ui, I've built as a practice.
 
